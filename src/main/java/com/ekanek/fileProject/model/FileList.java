@@ -1,4 +1,4 @@
-package com.ekanek.file.Project.model;
+package com.ekanek.fileProject.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
