@@ -1,4 +1,4 @@
-package com.ekanke.fileProject.exception;
+package com.ekanek.fileProject.exception;
 
 public class FileStorageException extends RuntimeException {
     public FileStorageException(String message) {
